@@ -143,6 +143,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+1-OOPS/oops/
+
 
 # Spyder project settings
 .spyderproject
